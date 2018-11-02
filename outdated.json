@@ -67,6 +67,9 @@
     },
     "DocLister": {
       "version": "2.4.1"
+    },
+    "DocInfo": {
+      "version": "0.4.1"
     }
   },
   "plugin": {},
